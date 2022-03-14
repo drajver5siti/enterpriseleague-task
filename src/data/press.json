@@ -1,0 +1,21 @@
+[
+    {
+        "image": "https://enterpriseleague.com/public/img/press/press-img-three.png",
+        "title": "2020 in review: A letter from our CEO and Co-Founder",
+        "location": "London, UK, December 30th, 2020",
+        "description": "Another year is drawing to a close; and we once again find ourselves planning for the future, but also reflecting on the events of 2020 – we hope that despite the difficulties and uncertainty this year has brought, you have managed to stay strong and focused on the things you can control."
+    },
+    {
+        "image": "https://enterpriseleague.com/public/img/press/press-img-two.png   ",
+        "title": "Over 100,000 companies join business platform since the virus crisis started",
+        "location":"London, UK, October 14th, 2020",
+        "description": "London, UK, Oct 14th, Enterprise League today announced that it registered a huge increase of over 100,000 SMEs joining its business platform. Companies seek to minimise their business loss after their forced closure in more than 40 countries worldwide and ahead of a second lockdown.\n\"The only way for companies to survive is to reinvent themselves\" said Enterprise League's CTO, Atanas Georgiev."
+    },
+    {
+        "image": "https://enterpriseleague.com/public/img/press/press-img-one.png",
+        "title": "The Solution to the Global Business #Lockdown",
+        "location": "London, UK - March 26, 2020",
+        "description": "Enterprise League today has announced that the B2B platform through which companies collaborate remotely is open to SMEs for free. This action comes as an attempt to help SMEs minimise the losses they are incurring due to the forced lockdown imposed in more than 40 countries worldwide.\nEnterprise League facilitates the way SMEs find new business partnerships and deals through a sophisticated software powered by AI and machine learning."
+    }
+
+]
